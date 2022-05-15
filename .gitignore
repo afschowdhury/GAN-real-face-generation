@@ -19,6 +19,9 @@ lib64/
 parts/
 sdist/
 var/
+gan_real_face_generator.pt
+generated_images.zip
+generated_images/
 wheels/
 pip-wheel-metadata/
 share/python-wheels/
